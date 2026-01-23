@@ -1,5 +1,6 @@
+package phase_1_Java_fundamentals;
 
-public class Main {
+public class day_01_operators_input {
     public static void main(String[] args) {
         int sum1 = (int)(Math.random() * 101);
         int sum2 = (int)(Math.random() * 101);
