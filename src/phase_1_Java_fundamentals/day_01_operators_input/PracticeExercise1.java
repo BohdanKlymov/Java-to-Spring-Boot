@@ -1,6 +1,6 @@
 package phase_1_Java_fundamentals.day_01_operators_input;
 
-public class practice_exercise_1 {
+public class PracticeExercise1 {
     public static void main(String[] args) {
         int sum1 = (int)(Math.random() * 101);
         int sum2 = (int)(Math.random() * 101);

@@ -1,7 +1,7 @@
 package phase_1_Java_fundamentals.day_01_operators_input;
 import java.util.Scanner;
 
-public class practice_exercise_2 {
+public class PracticeExercise2 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
