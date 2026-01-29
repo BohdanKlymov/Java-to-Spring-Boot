@@ -24,5 +24,7 @@ public class Exercise_1_NumberAnalyzer {
         } else {
             System.out.println(numIs + "odd");
         }
+
+        scanner.close();
     }
 }

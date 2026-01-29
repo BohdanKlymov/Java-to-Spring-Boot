@@ -41,5 +41,7 @@ public class MiniLogicChallenges {
         } else {
             System.out.println("Adult");
         }
+
+        scanner.close();
     }
 }

@@ -36,5 +36,6 @@ public class Exercise_2_MenuProgram {
                 System.out.println("Invalid choice.");
         }
 
+        sc.close();
     }
 }

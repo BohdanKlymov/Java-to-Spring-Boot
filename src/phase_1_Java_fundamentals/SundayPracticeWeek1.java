@@ -33,6 +33,6 @@ public class SundayPracticeWeek1 {
             System.out.println("Invalid operation");
         }
 
-
+        scanner.close();
     }
 }
