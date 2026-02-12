@@ -15,24 +15,28 @@ public class Exercise_01 {
         nums.add(10);
         nums.add(8);
 
-        int stopPoint = nums.size();
 
-        while (stopPoint > 1) {
-            for (int n = 0; n < stopPoint - 1; n++) {
-                if (nums.get(n) > nums.get(n + 1)) {
-
-                    int current = nums.get(n + 1);
-
-                    nums.set(n + 1, nums.get(n));
-                    nums.set(n, current);
+//        Remove duplicates
+        for (int i = 0; i < nums.size(); i++) {
+            for (int j = i + 1; j < nums.size(); j++) {
+                if (nums.get(i).equals(nums.get(j))) {
+                    nums.remove(j);
+                    j--;
                 }
             }
-
-            stopPoint--;
         }
 
-        for (int n = 0; n < nums.size() - 1; n++) {
-            System.out.print(nums.get(n) + " ");
+
+//        Keep only even numbers
+        for  (int n = 0; n < nums.size(); n++) {
+            if (nums.get(n) % 2 != 0) {
+                nums.remove(n);
+            }
         }
+
+
+//        Sort in descending order
+
     }
+
 }
