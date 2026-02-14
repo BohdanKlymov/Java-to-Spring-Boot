@@ -1,7 +1,7 @@
 package phase_1_Java_fundamentals;
 import java.util.Scanner;
 
-public class SundayPracticeWeek1 {
+public class SaturdayPracticeWeek1 {
     public static void main(String[] args) {
 
 //        Interactive Calculator
