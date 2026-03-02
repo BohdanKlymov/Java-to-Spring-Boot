@@ -2,6 +2,8 @@ package morning_quick_exercises;
 import java.util.Locale;
 import java.util.Scanner;
 
+//  Exercise: Count Vowels
+
 public class Exercise_04_StringProcessing {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
