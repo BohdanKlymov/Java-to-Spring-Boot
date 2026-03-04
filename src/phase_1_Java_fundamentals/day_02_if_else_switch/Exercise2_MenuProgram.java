@@ -1,7 +1,7 @@
 package phase_1_Java_fundamentals.day_02_if_else_switch;
 import java.util.Scanner;
 
-public class Exercise_2_MenuProgram {
+public class Exercise2_MenuProgram {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
