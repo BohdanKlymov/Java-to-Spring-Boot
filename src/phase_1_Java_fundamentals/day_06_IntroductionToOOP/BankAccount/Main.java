@@ -1,4 +1,4 @@
-package phase_1_Java_fundamentals.day_06_Introduction_to_OOP.BankAccount;
+package phase_1_Java_fundamentals.day_06_IntroductionToOOP.BankAccount;
 
 public class Main {
     public static void main(String[] args) {

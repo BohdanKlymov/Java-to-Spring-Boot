@@ -1,4 +1,4 @@
-package phase_1_Java_fundamentals.day_06_Introduction_to_OOP.PracticeExercise2_ObjectStateChanges;
+package phase_1_Java_fundamentals.day_06_IntroductionToOOP.PracticeExercise2_ObjectStateChanges;
 
 public class Car {
     private String brand;

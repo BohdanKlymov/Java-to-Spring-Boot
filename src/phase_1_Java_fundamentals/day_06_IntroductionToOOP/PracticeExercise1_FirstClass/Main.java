@@ -1,4 +1,4 @@
-package phase_1_Java_fundamentals.day_06_Introduction_to_OOP.PracticeExercise1_FirstClass;
+package phase_1_Java_fundamentals.day_06_IntroductionToOOP.PracticeExercise1_FirstClass;
 
 public class Main {
     public static void main(String[] args) {
