@@ -1,7 +1,7 @@
 package phase_1_Java_fundamentals.day_03_loops;
 import java.util.Scanner;
 
-public class PracticeExercise2 {
+public class Exercise2 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

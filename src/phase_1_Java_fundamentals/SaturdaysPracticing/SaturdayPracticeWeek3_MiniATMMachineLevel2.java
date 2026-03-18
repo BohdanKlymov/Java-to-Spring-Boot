@@ -1,4 +1,4 @@
-package phase_1_Java_fundamentals;
+package phase_1_Java_fundamentals.SaturdaysPracticing;
 import java.util.Scanner;
 
 public class SaturdayPracticeWeek3_MiniATMMachineLevel2 {

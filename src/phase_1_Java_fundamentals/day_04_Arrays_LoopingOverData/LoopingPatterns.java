@@ -1,6 +1,6 @@
 package phase_1_Java_fundamentals.day_04_Arrays_LoopingOverData;
 
-public class PracticeExercise2_LoopingPatterns {
+public class LoopingPatterns {
     public static void main(String[] args) {
 
         int[] numbers = {3, 7, 2, 9, 4};

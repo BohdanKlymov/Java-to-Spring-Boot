@@ -1,7 +1,7 @@
 package phase_1_Java_fundamentals.day_02_if_else_switch;
 import java.util.Scanner;
 
-public class Exercise1_NumberAnalyzer {
+public class NumberAnalyzer {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

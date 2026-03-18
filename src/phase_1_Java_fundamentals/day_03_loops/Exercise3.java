@@ -1,6 +1,6 @@
 package phase_1_Java_fundamentals.day_03_loops;
 
-public class PracticeExercise3 {
+public class Exercise3 {
     public static void main(String[] args) {
 
         for  (int i = 1; i <= 15; i++) {
